@@ -69,7 +69,7 @@ restart.scale = 0.5;
 }
 
 function draw() {
-  background(180);
+  background("red");
 text("Score: "+ score, 350, 50);
   console.log(gameState);
   
